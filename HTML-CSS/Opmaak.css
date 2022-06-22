@@ -1,0 +1,203 @@
+.reye:hover {
+    fill: #6DAEA7
+    ;
+}
+.leye:hover {
+    fill: coral
+}
+.mouth:hover {
+    fill: darkred
+}
+.container { /*Both buttons...*/
+  position: relative;
+}
+.projectf { /*project page css*/  
+  background-color: darkgoldenrod;
+}
+#secondfooter {
+  background-color: rgb(155, 111, 1);
+  color: white;
+} 
+.image { /*Background About page*/
+  height: auto;
+  width: 100%;
+  z-index: -1;
+}
+.imagethesecond { /*background jannnink page*/
+  height: auto;
+  max-height: 50%;
+  position: absolute;
+  transform: rotate(270deg);
+  margin-top: 400px;
+}
+.krinkcs { /*Background Krinkstone page*/
+  background-image: url(IMG/wallpaper.jpg);
+  background-size: 130%;
+}
+.textkrink { /*Description Krinkstone*/
+  font-family: 'Nunito', sant-serif;
+  max-width: 500px;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  color: white;
+}
+.textme { /*Description Jannink*/
+  font-family: 'Nunito', sant-serif;
+  max-width: 500px;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10;
+}
+.text { /*Krinkstone button*/
+  position: absolute;
+  top: 35%;
+  right: 23%;
+  background-color: black;
+  color: white;
+  padding-left: 75px;
+  padding-right: 75px;
+  border-radius: 40px;
+  font-family: 'Nunito', sant-serif;
+  border: none;
+}
+.text:hover { /*Krinkstone button hover*/
+  background-color: red;
+  opacity: .5;
+}
+.textosti { /*Jannink button*/
+  position: absolute;
+  top: 35%;
+  left: 23%;
+  background-color: black;
+  color: white;
+  padding-left: 75px;
+  padding-right: 75px;
+  border-radius: 40px;
+  font-family: 'Nunito', sant-serif;
+  border: none;
+}
+.textosti:hover { /*Jannink button hover*/
+  background-color: red;
+  opacity: .5;
+}
+.footer-basic { /*Footer Css*/
+    font-family: 'Nunito', sant-serif;
+    padding:40px 0;
+    background-color:#ffffff;
+    color:#4b4c4d;
+  }
+  
+  .footer-basic ul {
+    padding:0;
+    list-style:none;
+    text-align:center;
+    font-size:18px;
+    line-height:1.6;
+    margin-bottom:0;
+  }
+  
+  .footer-basic li {
+    padding:0 10px;
+  }
+  
+  .footer-basic ul a {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.8;
+  }
+  
+  .footer-basic ul a:hover {
+    opacity:1;
+  }
+  
+  .footer-basic .social {
+    text-align:center;
+    padding-bottom:25px;
+  }
+  
+  .footer-basic .social > a {
+    font-size:24px;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    display:inline-block;
+    text-align:center;
+    border-radius:50%;
+    border:1px solid #ccc;
+    margin:0 8px;
+    color:inherit;
+    opacity:0.75;
+  }
+  
+  .footer-basic .social > a:hover {
+    opacity:0.9;
+  }
+  
+  .footer-basic .copyright {
+    margin-top:15px;
+    text-align:center;
+    font-size:13px;
+    color:#aaa;
+    margin-bottom:0;
+  }
+  .twitter {
+      background-image: url("D:/Drivers/Saved Pictures/wallpaper&logo/Twitterbackgrnd.png");
+      background-size: cover;
+  }
+  .gfuel {
+      background-image: url("D:/Drivers/Saved Pictures/wallpaper&logo/GFUELlogo.jpg");
+      background-size: cover;
+  }
+  .discord {
+      background-image: url("D:/Drivers/Saved Pictures/wallpaper&logo/DISCORDLOGO.png");
+      background-size: cover;
+  }
+  .twitch {
+      background-image: url("D:/Drivers/Saved Pictures/wallpaper&logo/TWITCH.png");
+      background-size: cover;
+  }
+.twome { /*The Resising text on about page*/
+  font-size:10vw;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.bodyme {
+  background-color: coral;
+  color: white;
+}
+#purp {
+  background-color: rgb(255, 101, 45);
+  color: white;
+}
+a:link {
+  text-decoration: none;
+  color: white;
+}
+a:visited {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+  color: rgb(167, 0, 0);
+} 
+a:active {
+  text-decoration: none;
+}
+.blockjuan {
+  text-align: center;
+  margin-right:50%;
+}
+.blocktwo {
+  background-color: rgb(155, 111, 1);
+  width: 50%;
+  text-align: center;
+  color: white;
+  margin-left: 50%;
+}
